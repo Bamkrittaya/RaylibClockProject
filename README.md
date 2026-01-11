@@ -1,5 +1,13 @@
 # RaylibClockProject
-This repository contains two C programs for implementing a digital clock using the Raylib library. Both programs offer different versions of a digital clock, which can be compiled and run using the steps below.
+This repository contains two C programs for implementing a digital clock using the Raylib library. 
+
+## Demo
+![Demo](assets/demo.gif)
+
+
+Both programs offer different versions of a digital clock, which can be compiled and run using the steps below.
+
+
 
 ## Files
 
